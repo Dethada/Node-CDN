@@ -12,7 +12,6 @@
   "author": "David Zhu",
   "license": "MIT",
   "dependencies": {
-    "cors": "^2.8.4",
     "formidable": "^1.2.1"
   }
 }
